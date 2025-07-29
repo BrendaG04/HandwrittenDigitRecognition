@@ -15,3 +15,6 @@ Convolutional Neural Network classifier for MNIST dataset featuring:
 | Training Accuracy | 91.6% |
 | Test Accuracy    | 92.6%  |
 | Training Time    | 66.6s  |
+
+
+https://www.breakthroughtech.org/programs/the-ai-program/
