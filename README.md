@@ -6,6 +6,9 @@ Convolutional Neural Network classifier for MNIST dataset featuring:
 - Global Average Pooling
 - 92.6% test accuracy after 1 epoch
 
+[HandwrittenImages](https://en.wikipedia.org/wiki/MNIST_database)
+[MNIST DATABASE](http://yann.lecun.com/exdb/mnist/)
+
 ## 🏆 Results
 | Metric          | Score  |
 |-----------------|--------|
